@@ -1,0 +1,25 @@
+[3] 6:28:54 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\iCMS_POC\iCMS_POC.tws'
+[3] 6:28:54 PM: Log level: 4
+[3] 6:28:54 PM: Release: 13.0.0.30744
+[3] 6:28:58 PM: No service discovery configured.
+[3] 6:28:58 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.0.0.1133 (29017)
+[3] 6:28:58 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.0.0.1133 (28914)
+    + : SAPSolutionManagerIntegration 13.0.1.5 (5)
+[3] 6:28:58 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 6:28:58 PM: Searcher found 0 results in 121.0984 ms
+[3] 6:28:58 PM:  + OptIntAddIn: OptIntAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + RemoteControl: RemoteControlAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + Reporting: ReportingAddIn 13.0.0.1133 (28914)
+[3] 6:28:58 PM:  + ReportingUI: ReportingUIAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + RequirementsManagementAddIn: RequirementsManagement 13.0.0.1133 (28914)
+[3] 6:28:58 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + TestCaseDesign: TestCaseDesign 13.0.0.1133 (28914)
+[3] 6:28:58 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.0.0.1133 (30435)
+[3] 6:28:58 PM:  + XDefinitions: XDefinitions 13.0.0.1133 (28914)
+[3] 6:28:58 PM:  + XDefinitionsUI: XDefinitionsUI 13.0.0.1133 (30435)
+[3] 6:28:58 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\iCMS_POC\iCMS_POC.tws'
+[3] 6:34:24 PM: Closing Workspace!
+[3] 6:34:25 PM: Log closed!

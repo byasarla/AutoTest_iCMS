@@ -1,0 +1,4 @@
+[3] 10:56:57 AM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\iCMS_POC\iCMS_POC.tws'
+[3] 10:56:57 AM: Log level: 4
+[3] 10:56:57 AM: Release: 13.0.0.30744
+[4] 10:56:57 AM:  ShowStatusInfo: 'Creating new Workspace!'
